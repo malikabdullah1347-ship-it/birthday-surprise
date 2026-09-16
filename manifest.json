@@ -1,0 +1,20 @@
+{
+  "name": "A Little Surprise \u2014 Birthday",
+  "short_name": "Birthday Surprise",
+  "description": "A cinematic birthday surprise from Abdullah.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#ffd9e9",
+  "theme_color": "#ffd8e8",
+  "lang": "en",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
